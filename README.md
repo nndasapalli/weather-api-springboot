@@ -1,6 +1,8 @@
 # Weather API with Redis Caching 🌤️
 
 A Spring Boot REST API application to retrieve weather information for a given location using an external weather API. The project integrates **Redis caching** to improve performance by minimizing repeated API calls.
+![image](https://github.com/user-attachments/assets/5f684fce-3012-4b11-adb4-0a47a89bf32c)
+
 
 ---
 
